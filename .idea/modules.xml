@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CursoAngular/.idea/CursoAngularJs.iml" filepath="$PROJECT_DIR$/../CursoAngular/.idea/CursoAngularJs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CursoAngularSitioDinamico/.idea/CursoAngularSitioDinamico.iml" filepath="$PROJECT_DIR$/../CursoAngularSitioDinamico/.idea/CursoAngularSitioDinamico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CursoAngularSweetAlert/.idea/CursoAngularSweetAlert.iml" filepath="$PROJECT_DIR$/../CursoAngularSweetAlert/.idea/CursoAngularSweetAlert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CursoAngularTouch.iml" filepath="$PROJECT_DIR$/.idea/CursoAngularTouch.iml" />
+    </modules>
+  </component>
+</project>
